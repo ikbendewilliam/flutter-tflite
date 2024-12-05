@@ -1,3 +1,5 @@
+# NOTE: Updated android tflite version to 2.12
+ 
  <p align="center">
     <br>
     <img src="https://github.com/am15h/tflite_flutter_plugin/raw/update_readme/docs/tflite_flutter_cover.png"/>
